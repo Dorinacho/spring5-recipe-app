@@ -1,4 +1,4 @@
-package guru.springframework.converters;
+package guru.springframework.controllers.converters;
 
 import guru.springframework.commands.CategoryCommand;
 import guru.springframework.domain.Category;

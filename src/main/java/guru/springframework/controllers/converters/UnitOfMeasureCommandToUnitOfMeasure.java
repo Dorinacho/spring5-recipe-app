@@ -1,4 +1,4 @@
-package guru.springframework.converters;
+package guru.springframework.controllers.converters;
 
 import guru.springframework.commands.UnitOfMeasureCommand;
 import guru.springframework.domain.UnitOfMeasure;
